@@ -1,3 +1,6 @@
 [submodule "PDM_demodulation/PDM-demodulator"]
 	path = PDM_demodulation/PDM-demodulator
 	url = https://github.com/matejpolj/PDM-demodulator/
+[submodule "Complete-project/Vivado/VHDL/PDM-demodulator"]
+	path = Complete-project/Vivado/VHDL/PDM-demodulator
+	url = https://github.com/matejpolj/PDM-demodulator/
